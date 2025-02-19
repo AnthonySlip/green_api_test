@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+.button {
+    @apply w-fit bg-green-900 text-amber-50 px-2;
+    border-radius: 4px;
+}
